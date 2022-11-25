@@ -1,0 +1,64 @@
+[
+  {
+    "id": 1,
+    "category": "fab",
+    "title": "How to make (almost) anything",
+    "skill": "digital fabrication",
+    "link": "http://fab.cba.mit.edu/classes/863.17/EECS/people/xinwen/index.html",
+    "thumbnail": "htmaa_thumbnail.jpeg",
+    "description": "XXX"
+  },
+  {
+    "id": 2,
+    "category": "design",
+    "title": "Collapsible: an adaptive suitcase",
+    "link": "placeholder",
+    "pdf": "collapsible.pdf",
+    "skill": "product design, laser cutting",
+    "thumbnail": "collapsible_thumbnail.jpg",
+    "description": "XXX"
+  },
+  {
+    "id": 3,
+    "category": "design",
+    "title": "Fragments of Goji",
+    "skill": "photogrammetry, VR",
+    "link": "https://docs.google.com/presentation/d/1X_3-_KEiQR4ueUV-yqA3g01Bu3ERtHTg8vMPkyGP0o0/edit?usp=sharing",
+    "thumbnail": "fragment_thumbnail.png",
+    "description": "XXX"
+  },
+  {
+    "id": 4,
+    "category": "design",
+    "title": "Zobeide: the maze city",
+    "thumbnail": "zobeide_thumbnail.JPG",
+    "skill": "stage design",
+    "description": "XXX",
+    "pdf": "Zobeide.pdf",
+    "link": "placeholder"
+  },
+  {
+    "id": 4,
+    "category": "design",
+    "title": "Portable partner",
+    "skill": "sewing",
+    "thumbnail": "portablepartner_thumbnail.jpg",
+    "description": "XXX"
+  },
+  {
+    "id": 4,
+    "category": "design",
+    "title": "Modular shelf for people who are afraid of commitment",
+    "thumbnail": "shelf_thumbnail.png",
+    "skill": "woodworking",
+    "description": "XXX"
+  },
+  {
+    "id": 4,
+    "category": "design",
+    "title": "Scream canister",
+    "thumbnail": "canister_thumbnail.jpg",
+    "description": "XXX",
+    "link": "https://docs.google.com/presentation/d/1pLhbxeTExfX49koQ1J89Tz1TkN3xzvitczZTVAUMj18/edit#slide=id.g2c1ecaf520_0_28"
+  }
+]

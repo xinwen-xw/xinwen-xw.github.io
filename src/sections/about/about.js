@@ -1,7 +1,9 @@
 import React from 'react';
+import Profile from './profile.png';
 
 const About = () => (
   <div className="about-container">
+    <img src={Profile} alt="./profile1.jpg"/>
     <div className="self-description-container">
       <div className="my-name">
         Xin Wen

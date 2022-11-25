@@ -15,7 +15,7 @@ body {
   img {
     margin: 40px 30px 30px 70px;
     display: inline-block;
-    height: 300px;
+    height: 150px;
   }
 
   .self-description-container {
@@ -48,6 +48,8 @@ body {
 }
 
 .research-section {
+  padding-left: 15%;
+  padding-right: 15%;
   color: $textColor;
   margin-top: 30px;
 
@@ -114,6 +116,8 @@ body {
 }
 
 .awards-section {
+  padding-left: 15%;
+  padding-right: 15%;
   margin-top: 20px;
   color: $textColor;
 
@@ -145,7 +149,12 @@ body {
   }
 }
 
+.community-section {
+  padding-left: 15%;
+  padding-right: 15%;
+
 .conference-attendance-info {
+
   max-width: 600px;
   margin: 10px 20px;
   font-family: $textFont;
@@ -172,6 +181,7 @@ body {
 }
 
 .teaching-section {
+
   margin-top: 20px;
   color: $textColor;
 
@@ -209,6 +219,58 @@ body {
           li {
 
           }
+        }
+      }
+    }
+  }
+}
+}
+
+.project-section {
+  color: $textColor;
+  margin-top: 30px;
+  padding-left: 15%;
+  padding-right: 15%;
+
+  .section-title {
+    @include section-title();
+  }
+
+  .project-list {
+    display: flex;
+    flex-wrap: wrap;
+    .project-preview {
+      width: 300px;
+      margin: 20px 20px;
+      font-family: $textFont;
+      font-size: 14px;
+
+      .thumbnail {
+        img {
+          width: 300px;
+          height: 200px;
+          border-radius: 8px;
+        }
+      }
+
+      .descriptions {
+        margin-top: 6px;
+        a {
+          @include link();
+        }
+
+        .skill {
+          font-weight: 300;
+          font-style: italic;
+          margin-bottom: 3px;
+        }
+
+        .title {
+          font-weight: 700;
+          margin-bottom: 6px;
+        }
+
+        .description {
         }
       }
     }
