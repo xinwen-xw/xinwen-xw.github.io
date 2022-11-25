@@ -55,60 +55,92 @@ body {
     @include section-title();
   }
 
-    .publication_preview {
-      display: flex;
-      margin: 10px 20px;
-      font-family: $textFont;
-      font-size: 14px;
+  .publication_preview {
+    display: flex;
+    margin: 10px 20px;
+    font-family: $textFont;
+    font-size: 14px;
 
-      .thumbnail {
-        align-self: left;
-        img {
-          width: 200px;
+    .thumbnail {
+      align-self: left;
+      img {
+        width: 200px;
+      }
+    }
+
+    .descriptions {
+      margin: 5px 10px 10px 30px;
+      align-self: right;
+      .title {
+        font-weight: 700;
+      }
+
+      .author {
+        b {
+          font-weight: 600;
         }
       }
 
-      .descriptions {
-        margin: 5px 10px 10px 30px;
-        align-self: right;
-        .title {
-          font-weight: 700;
+      .conference {
+        div {
+          display: inline;
+          font-style: italic;
         }
+      }
 
-        .author {
-          b {
-            font-weight: 600;
-          }
-        }
+      .description {
+        margin-top: 16px;
+      }
 
-        .conference {
-          div {
-            display: inline;
-            font-style: italic;
-          }
-        }
+      .links {
+        margin-top: 10px;
+        a {
+          margin-right: 15px;
+          padding: 3px 10px;
+          background: darkgray;
+          border-radius: 4px;
 
-        .description {
-          margin-top: 16px;
-        }
+          font-family: $titleFont;
+          text-decoration: none;
+          color: white;
 
-        .links {
-          margin-top: 10px;
-          a {
-            margin-right: 15px;
-            padding: 3px 10px;
-            background: darkgray;
-            border-radius: 4px;
-
-            font-family: $titleFont;
-            text-decoration: none;
-            color: white;
-
-            &:hover {
-              background: $highlightBlockColor;
-            }
+          &:hover {
+            background: $highlightBlockColor;
           }
         }
       }
     }
+  }
+}
+
+.awards-section {
+  margin-top: 20px;
+  color: $textColor;
+
+  .section-title {
+    @include section-title();
+  }
+
+  .awards {
+    max-width: 600px;
+    margin: 10px 20px;
+    font-family: $textFont;
+    font-size: 14px;
+
+    .award-preview {
+      margin-bottom: 14px;
+
+      .title {
+        font-weight: 600;
+
+        a {
+          text-decoration: none;
+          color: $textColor;
+          &:hover {
+            text-decoration: underline;
+          }
+        }
+      }
+    }
+  }
 }
