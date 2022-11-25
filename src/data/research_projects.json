@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "ColorMod: Recoloring 3D Printed Objects using Photochromic Inks.",
+    "authors": "Parinya Punpongsanon, <b>Xin Wen</b>, David Kim, Stefanie Mueller.",
+    "conference": "In Proceedings of CHI 2018.",
+    "thumbnail": "colormod_thumbnail.jpeg",
+    "doi": "https://dl.acm.org/doi/10.1145/3173574.3173787",
+    "pdf": "http://groups.csail.mit.edu/hcie/files/research-projects/colormod/2018-chi-colormod-paper.pdf",
+    "video": "https://youtu.be/kBojJIUhHS8",
+    "projectPage": "https://hcie.csail.mit.edu/research/colormod/colormod.html",
+    "description": "ColorMod is a method to create 3D objects that allow for multi-color changes in their appearance even after fabrication. It works by placing differently colored photochromic materials in a dense multi-color voxel pattern across the entire surface of the object (see Figure 3). During recoloring, only the voxels with the desired color are activated; all other voxels remain deactivated and transparent."
+  },
+  {
+    "id": 2,
+    "title": "FoodFab: Creating Food Perception Tricks using Food 3D Printing.",
+    "authors": "Ying-Ju Lin, Parinya Punpongsanon, <b>Xin Wen</b>, Daisuke Iwai, Kosuke Sato, Marianna Obrist, Stefanie Mueller.",
+    "conference": "In Proceedings of CHI 2020.",
+    "thumbnail": "foodfab_thumbnail.png",
+    "doi": "https://dl.acm.org/doi/abs/10.1145/3313831.3376421",
+    "pdf": "http://groups.csail.mit.edu/hcie/files/research-projects/foodfab/2020-CHI-foodfab-paper.pdf",
+    "video": "https://youtu.be/kBojJIUhHS8",
+    "projectPage": "https://hcie.csail.mit.edu/research/foodfab/foodfab.html",
+    "description": "FoodFab is a food 3D printing system that induces varying levels of satiety by creating food structures of different chewing times but with the same amount of calories to help users control their food intake."
+  },
+  {
+    "id": 3,
+    "title": "CurveBoards: Integrating Breadboards into Physical Objects to Prototype Function in the Context of Form",
+    "authors": "Junyi Zhu, Lotta-Gili Blumberg, Yunyi Zhu, Martin Nisser, Ethan Levi Carlson, <b>Xin Wen</b>, Kevin Shum, Jessica Ayeley Quaye, Stefanie Mueller.",
+    "conference": "In Proceedings of CHI 2020.",
+    "thumbnail": "curveboard_thumbnail.jpeg",
+    "doi": "https://dl.acm.org/doi/abs/10.1145/3313831.3376617",
+    "pdf": "http://groups.csail.mit.edu/hcie/files/research-projects/curveboard/2020-CHI-curveboard-paper.pdf",
+    "video": "https://youtu.be/erV9JR0rjGs",
+    "projectPage": "https://hcie.csail.mit.edu/research/curveboard/curveboard.html",
+    "description": "CurveBoards are breadboards integrated into physical objects so designers can test interactive scenarios and log interaction data on the physical prototype while still being able to easily make changes to the component layout and circuit design."
+  }
+]

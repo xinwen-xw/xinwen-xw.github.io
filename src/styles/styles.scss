@@ -46,3 +46,69 @@ body {
     }
   }
 }
+
+.research-section {
+  color: $textColor;
+  margin-top: 30px;
+
+  .section-title {
+    @include section-title();
+  }
+
+    .publication_preview {
+      display: flex;
+      margin: 10px 20px;
+      font-family: $textFont;
+      font-size: 14px;
+
+      .thumbnail {
+        align-self: left;
+        img {
+          width: 200px;
+        }
+      }
+
+      .descriptions {
+        margin: 5px 10px 10px 30px;
+        align-self: right;
+        .title {
+          font-weight: 700;
+        }
+
+        .author {
+          b {
+            font-weight: 600;
+          }
+        }
+
+        .conference {
+          div {
+            display: inline;
+            font-style: italic;
+          }
+        }
+
+        .description {
+          margin-top: 16px;
+        }
+
+        .links {
+          margin-top: 10px;
+          a {
+            margin-right: 15px;
+            padding: 3px 10px;
+            background: darkgray;
+            border-radius: 4px;
+
+            font-family: $titleFont;
+            text-decoration: none;
+            color: white;
+
+            &:hover {
+              background: $highlightBlockColor;
+            }
+          }
+        }
+      }
+    }
+}
