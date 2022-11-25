@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "courseName": "Middle East Entrepreneurs of Tomorrow (CS Instructor)",
+    "link": "https://www.meet.mit.edu/",
+    "term": "Summer 2019",
+    "details": [
+      "Developed curriculum and taught second year high school students web development",
+      "Students worked in groups to develop a web app on social issues they were passionate about"
+    ]
+  },
+  {
+    "id": 2,
+    "courseName": "6.810 Engineering Interactive Technologies (Undergraduate TA)",
+    "link": "https://hcie.csail.mit.edu/classes/2021-fall-6810/6810-engineering-interactive-technologies.html",
+    "term": "Fall 2018",
+    "details": [
+      "Created teaching content for engineering interactive technologies",
+      "Provided technical guidance to students in coding, electronics, 3D printing, laser cutting, and other related, fabrication techniques and monitoring the machine shop"
+    ]
+  },
+  {
+    "id": 3,
+    "courseName": "11.111 Leadership in Negotiation: Advanced Applications (Undergraduate TA)",
+    "link": "http://catalog.mit.edu/subjects/11/",
+    "term": "Spring 2018",
+    "details": [
+      "Shaped the pedagogy of negotiation through applications in management, public policy, social entrepreneurship, international diplomacy, and scientific discovery",
+      "Facilitated teaching by observing class dynamics and providing individual feedback to students on communication, decision-making, and leadership skills"
+
+    ]
+  },
+  {
+    "id": 4,
+    "courseName": "MIT MakerLodge (Mentor)",
+    "link": "https://project-manus.mit.edu/students/makerlodge",
+    "term": "2017 - 2019",
+    "details": [
+      "Trained first year students on electronics and maker tools, e.g. drill press, band saw, sander, 3D printer, laser cutter"
+    ]
+  }
+]
