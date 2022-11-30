@@ -6,7 +6,7 @@
     "skill": "digital fabrication",
     "link": "http://fab.cba.mit.edu/classes/863.17/EECS/people/xinwen/index.html",
     "thumbnail": "htmaa_thumbnail.jpeg",
-    "description": "XXX"
+    "description": "HTMAA was a class on digital fabrication taught by Prof. Neil Gershenfeld at the MIT Fab Lab. Each we were introduced to one tool for fabrication. Then we had the week to play with it, make something with it, and document our learnings and struggles. The final project needed to involve most of the fabrication tools covered; for mine, inspired by the movie Inside Out, I made squishy octopi that let you record your emotions to better understand how you feel. You can follow my journey in the class making my octopi and other fun things from my class blog."
   },
   {
     "id": 2,
@@ -16,16 +16,17 @@
     "pdf": "collapsible.pdf",
     "skill": "product design, laser cutting",
     "thumbnail": "collapsible_thumbnail.jpg",
-    "description": "XXX"
+    "description": "Collapsible aims to explore the potential of shape-morphing structures that not only can be reconfigured easily but also remain strong. It draws inspiration from origami, the traditional method that bridges between flat and three-dimensional structures. Made of a zig-zag pattern, the luggage can be collapsed into any height while the the alternating direction of the zig-zags sustains the strength. As it is compressed, the color changes from transparent to solid, creating a different look at each different height."
   },
   {
     "id": 3,
     "category": "design",
     "title": "Fragments of Goji",
     "skill": "photogrammetry, VR",
+    "partner": "Partner: Jierui Fang",
     "link": "https://docs.google.com/presentation/d/1X_3-_KEiQR4ueUV-yqA3g01Bu3ERtHTg8vMPkyGP0o0/edit?usp=sharing",
     "thumbnail": "fragment_thumbnail.png",
-    "description": "XXX"
+    "description": "Fragments is a virtual reality experience reconstructing the story of Gio from the Tale of the Heike. Participates can wander through the Gio temple built from footage taken onsite and learn about the story from the artifacts scattered throughout the scene. The point cloud model echos the ethereal beauty of the story. You can watch the walk through of the experience <a href=https://youtu.be/XeBXOe5FmN0 target=_blank>here</a>."
   },
   {
     "id": 4,
@@ -33,32 +34,54 @@
     "title": "Zobeide: the maze city",
     "thumbnail": "zobeide_thumbnail.JPG",
     "skill": "stage design",
-    "description": "XXX",
+    "description": "Zobeide is a stage design based on the maze city in Italo Calvino's Invisible Cities, where people chase after their dreams and desires and become unawaredly trapped by their pursue. To illustrate the idea of traps and fotresses, this design encourages audience to move around the stairs to watch the three concurrent stories while contains the actors’ actions within the three pits.",
     "pdf": "Zobeide.pdf",
     "link": "placeholder"
   },
   {
-    "id": 4,
+    "id": 5,
+    "category": "fab",
+    "title": "Becoming a pianist",
+    "thumbnail": "piano_thumbnail.png",
+    "skill": "microcontroller",
+    "description": "This is prototype of a physical version of the apps that teaches people how to play piano: by moving a punch card of music sheets across, the key needed to be pressed will light up.",
+    "pdf": "piano.pdf",
+    "link": "placeholder"
+  },
+  {
+    "id": 6,
+    "category": "fab",
+    "title": "SLA4U",
+    "partner": "Partners: Abraham Bauer, Rebecca Kurfess, Kevin Leonardo",
+    "thumbnail": "dlp_thumbnail.jpeg",
+    "skill": "3D printing",
+    "description": "SLA4U is an SLA printer assembling kit that increases students’ exposure to different aspects of STEM by introducing the principles of SLA printing.",
+    "link": "https://docs.google.com/presentation/d/1CBVIWwu9PgxzTST7Ybrm0KiZlZHsAwhzhgKSLygYNEc/edit?usp=sharing"
+  },
+  {
+    "id": 7,
     "category": "design",
     "title": "Portable partner",
     "skill": "sewing",
     "thumbnail": "portablepartner_thumbnail.jpg",
-    "description": "XXX"
+    "description": "Portable partner is a low-tech wearble simulating (the lack of) physical contact in a long distance relationship. During the final review, people were playing with it in all kinds different ways, so I thought it could be fun to make a collection of them in different shapes (so they are no longer restricted to the humanoid shape). Imagine going to a cocktail party where everyone brings a plushy buddy! "
   },
   {
-    "id": 4,
+    "id": 8,
     "category": "design",
     "title": "Modular shelf for people who are afraid of commitment",
     "thumbnail": "shelf_thumbnail.png",
     "skill": "woodworking",
-    "description": "XXX"
+    "description": "Inspired by \"Qi Qiao Tu\", or tangram puzzles, I designed the modular shelf to be reconfigurable into different shapes to adapt to one's changing storage needs."
   },
   {
-    "id": 4,
+    "id": 9,
     "category": "design",
     "title": "Scream canister",
     "thumbnail": "canister_thumbnail.jpg",
-    "description": "XXX",
-    "link": "https://docs.google.com/presentation/d/1pLhbxeTExfX49koQ1J89Tz1TkN3xzvitczZTVAUMj18/edit#slide=id.g2c1ecaf520_0_28"
+    "skill": "arduino, molding",
+    "description": "Mitchell and I envisioned this project to be a playful way for people to vent out their stress and to encourage conversation around stress management. User can scream into the canister to relieve their stress and the decibel value of each scream will be share to a platform where all users can see who screams louder.",
+    "partner": "Partner: Mitchell Hwang",
+    "link": "https://xinw3n.github.io/6.S06Scream-website/"
   }
 ]

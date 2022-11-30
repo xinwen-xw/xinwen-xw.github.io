@@ -29,6 +29,13 @@ const ProjectPreview = ({project}) => (
             </div>
           }
         </div>
+        {project.partner &&  <div className="partner">
+          {
+            <div>
+              &bull; {project.partner}
+            </div>
+          }
+        </div>}
         <div className="description">
           <div dangerouslySetInnerHTML={ { __html: project.description } }></div>
         </div>
