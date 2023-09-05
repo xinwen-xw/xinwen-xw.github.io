@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2fd41258.css",
-    "main.js": "/static/js/main.54069485.js",
+    "main.css": "/static/css/main.279a1788.css",
+    "main.js": "/static/js/main.dce08ad8.js",
     "static/js/787.5809834d.chunk.js": "/static/js/787.5809834d.chunk.js",
     "static/media/collapsible.pdf": "/static/media/collapsible.da46c4e852a3eedbe2ee.pdf",
     "static/media/zobeide_thumbnail.JPG": "/static/media/zobeide_thumbnail.b0b60545d965b3e28a42.JPG",
@@ -21,12 +21,12 @@
     "static/media/dlp_thumbnail.jpeg": "/static/media/dlp_thumbnail.554551fd748d9d318ce2.jpeg",
     "static/media/portablepartner_thumbnail.jpg": "/static/media/portablepartner_thumbnail.87f55bf45aea5c670104.jpg",
     "index.html": "/index.html",
-    "main.2fd41258.css.map": "/static/css/main.2fd41258.css.map",
-    "main.54069485.js.map": "/static/js/main.54069485.js.map",
+    "main.279a1788.css.map": "/static/css/main.279a1788.css.map",
+    "main.dce08ad8.js.map": "/static/js/main.dce08ad8.js.map",
     "787.5809834d.chunk.js.map": "/static/js/787.5809834d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2fd41258.css",
-    "static/js/main.54069485.js"
+    "static/css/main.279a1788.css",
+    "static/js/main.dce08ad8.js"
   ]
 }
