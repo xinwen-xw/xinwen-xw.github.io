@@ -1,10 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.2fd41258.css",
-    "main.js": "/static/js/main.b20cbf1b.js",
+    "main.js": "/static/js/main.54069485.js",
     "static/js/787.5809834d.chunk.js": "/static/js/787.5809834d.chunk.js",
     "static/media/collapsible.pdf": "/static/media/collapsible.da46c4e852a3eedbe2ee.pdf",
-    "static/media/profile.png": "/static/media/profile.08c222d3f16b4d8c9f8f.png",
     "static/media/zobeide_thumbnail.JPG": "/static/media/zobeide_thumbnail.b0b60545d965b3e28a42.JPG",
     "static/media/fragment_thumbnail.png": "/static/media/fragment_thumbnail.4410a095bb7b511ce9c5.png",
     "static/media/Zobeide.pdf": "/static/media/Zobeide.6bc56e95dbd9eb14b19f.pdf",
@@ -17,16 +16,17 @@
     "static/media/colormod_thumbnail.jpeg": "/static/media/colormod_thumbnail.ba355ab00ed3ca807306.jpeg",
     "static/media/canister_thumbnail.jpg": "/static/media/canister_thumbnail.503c615b7fa82b68058f.jpg",
     "static/media/collapsible_thumbnail.jpg": "/static/media/collapsible_thumbnail.5d1865fb4130948cfa8c.jpg",
+    "static/media/profile.jpeg": "/static/media/profile.c68bcb9acfc8cde14eb8.jpeg",
     "static/media/htmaa_thumbnail.jpeg": "/static/media/htmaa_thumbnail.0333748f0ae7b8a8b32d.jpeg",
     "static/media/dlp_thumbnail.jpeg": "/static/media/dlp_thumbnail.554551fd748d9d318ce2.jpeg",
     "static/media/portablepartner_thumbnail.jpg": "/static/media/portablepartner_thumbnail.87f55bf45aea5c670104.jpg",
     "index.html": "/index.html",
     "main.2fd41258.css.map": "/static/css/main.2fd41258.css.map",
-    "main.b20cbf1b.js.map": "/static/js/main.b20cbf1b.js.map",
+    "main.54069485.js.map": "/static/js/main.54069485.js.map",
     "787.5809834d.chunk.js.map": "/static/js/787.5809834d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2fd41258.css",
-    "static/js/main.b20cbf1b.js"
+    "static/js/main.54069485.js"
   ]
 }
