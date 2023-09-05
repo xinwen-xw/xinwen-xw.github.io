@@ -8,6 +8,24 @@ body {
   margin: 0;
 }
 
+.project-pages {
+  padding-left: 15%;
+  padding-right: 15%;
+  color: $textColor;
+  margin-top: 30px;
+  color: $textColor;
+  .header {
+      font-family: $titleFont;
+      font-size: 30px;
+      font-weight: 600;
+    }
+
+  .paragraph {
+    margin-top: 4px;
+    margin-bottom: 10px;
+  }
+}
+
 .about-container {
   display: flex;
   color: $textColor;
