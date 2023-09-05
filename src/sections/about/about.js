@@ -1,8 +1,10 @@
 import React from 'react';
-import Profile from './profile.png';
+import Profile from './profile.jpeg';
 
 const About = () => (
-  <div className="about-container">
+  <div className="about-container" 
+    accessible={true}
+    accessibilityLabel="About Xin Wen">
     <img src={Profile} alt="./profile1.jpg"/>
     <div className="self-description-container">
       <div className="my-name">
@@ -19,9 +21,12 @@ const About = () => (
       <div className="semibold">
           Background:
         </div>
-        I graduated from MIT in 2019 with a B.Sc. in Electrical Engineering & Computer Science, with a minor in Design. I worked at MIT CSAIL as an undergraduate research assistant
+        <div> I am a PhD student at the ATLAS Institute at CU Boulder, advised by <a href="https://www.colorado.edu/atlas/michael-rivera" target="_blank">
+        Prof. Michael Rivera</a>.  
+        Previously I worked as a software engineer at Airbnb. I have a B.Sc. in Electrical Engineering & Computer Science, with a minor in Design from MIT. I worked at MIT CSAIL as an undergraduate research assistant
         with <a href="https://hcie.csail.mit.edu/stefanie-mueller.html" target="_blank">
-        Prof. Stefanie Mueller</a>. Since I graduated, I have been working at Airbnb as a software engineer.
+        Prof. Stefanie Mueller</a>. 
+        </div>
       </div>
 
     </div>
