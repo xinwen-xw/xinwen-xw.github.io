@@ -8,7 +8,7 @@ const About = () => (
     <img src={Profile} alt="./profile1.jpg"/>
     <div className="self-description-container">
       <div className="my-name">
-        Xin
+        Xin Wen 温馨
       </div>
       <div className="paragraph">
         <div className="semibold">
