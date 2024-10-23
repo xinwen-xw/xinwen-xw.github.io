@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": 11,
     "category": "fab",
     "title": "How to make (almost) anything",
     "skill": "digital fabrication",
@@ -9,7 +9,7 @@
     "description": "HTMAA was a class on digital fabrication taught by Prof. Neil Gershenfeld at the MIT Fab Lab. Each we were introduced to one tool for fabrication. Then we had the week to play with it, make something with it, and document our learnings and struggles. The final project needed to involve most of the fabrication tools covered; for mine, inspired by the movie Inside Out, I made squishy octopi that let you record your emotions to better understand how you feel. You can follow my journey in the class making my octopi and other fun things from my class blog."
   },
   {
-    "id": 2,
+    "id": 10,
     "category": "design",
     "title": "Collapsible: an adaptive suitcase",
     "link": "placeholder",
@@ -19,7 +19,25 @@
     "description": "Collapsible aims to explore the potential of shape-morphing structures that not only can be reconfigured easily but also remain strong. It draws inspiration from origami, the traditional method that bridges between flat and three-dimensional structures. Made of a zig-zag pattern, the luggage can be collapsed into any height while the the alternating direction of the zig-zags sustains the strength. As it is compressed, the color changes from transparent to solid, creating a different look at each different height."
   },
   {
-    "id": 3,
+    "id": 9,
+    "category": "design",
+    "title": "Computationally designed dioramas",
+    "link": "https://www.notion.so/Final-Project-Creating-Multilayered-Scenes-3c772be21f4c4329b9942cbcb17075bc",
+    "skill": "computational design, laser cutting",
+    "thumbnail": "diorama_thumbnail.jpeg",
+    "description": "This project aims to create a pipeline that automates creating a multilayered scene from a 2D image that could be constructed from flat materials, e.g., paper, cardstock. With the tool, one could upload an image and specify how the elements in the image should be arranged in each layer, and the system would produce a series of design for each layer that could be cut out on a 2D cutting machines, e.g. a lasercutter, and assembled into a scene."
+  },
+  {
+    "id": 8,
+    "category": "design",
+    "title": "Weaving a Aruco marker",
+    "skill": "weaving",
+    "link": "https://petite-triangle-319.notion.site/Final-Project-271ddb86970f4610be7a09448ee0f8f3?pvs=4",
+    "thumbnail": "weaving_thumbnail.png",
+    "description": "With this weaving project, I wanted to explore how to encode data in a swatch that could be decoded later?” with the heuristic of making it harder for the naked eye to decode the data."
+  },
+  {
+    "id": 7,
     "category": "design",
     "title": "Fragments of Goji",
     "skill": "photogrammetry, VR",
@@ -29,7 +47,7 @@
     "description": "Fragments is a virtual reality experience reconstructing the story of Gio from the Tale of the Heike. Participates can wander through the Gio temple built from footage taken onsite and learn about the story from the artifacts scattered throughout the scene. The point cloud model echos the ethereal beauty of the story. You can watch the walk through of the experience <a href=https://youtu.be/XeBXOe5FmN0 target=_blank>here</a>."
   },
   {
-    "id": 4,
+    "id": 6,
     "category": "design",
     "title": "Zobeide: the maze city",
     "thumbnail": "zobeide_thumbnail.JPG",
@@ -49,7 +67,7 @@
     "link": "placeholder"
   },
   {
-    "id": 6,
+    "id": 4,
     "category": "fab",
     "title": "SLA4U",
     "partner": "Partners: Abraham Bauer, Rebecca Kurfess, Kevin Leonardo",
@@ -59,7 +77,7 @@
     "link": "https://docs.google.com/presentation/d/1CBVIWwu9PgxzTST7Ybrm0KiZlZHsAwhzhgKSLygYNEc/edit?usp=sharing"
   },
   {
-    "id": 7,
+    "id": 3,
     "category": "design",
     "title": "Portable partner",
     "skill": "sewing",
@@ -67,7 +85,7 @@
     "description": "Portable partner is a low-tech wearble simulating (the lack of) physical contact in a long distance relationship. During the final review, people were playing with it in all kinds different ways, so I thought it could be fun to make a collection of them in different shapes (so they are no longer restricted to the humanoid shape). Imagine going to a cocktail party where everyone brings a plushy buddy! "
   },
   {
-    "id": 8,
+    "id": 2,
     "category": "design",
     "title": "Modular shelf for people who are afraid of commitment",
     "thumbnail": "shelf_thumbnail.png",
@@ -75,7 +93,7 @@
     "description": "Inspired by \"Qi Qiao Tu\", or tangram puzzles, I designed the modular shelf to be reconfigurable into different shapes to adapt to one's changing storage needs."
   },
   {
-    "id": 9,
+    "id": 1,
     "category": "design",
     "title": "Scream canister",
     "thumbnail": "canister_thumbnail.jpg",

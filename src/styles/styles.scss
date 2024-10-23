@@ -31,7 +31,7 @@ body {
   color: $textColor;
 
   img {
-    margin: 40px 30px 30px 70px;
+    margin: 40px 20px 30px 70px;
     display: inline-block;
     height: 150px;
   }
@@ -86,10 +86,11 @@ body {
       img {
         width: 200px;
       }
+      margin-top: 16px;
     }
 
     .descriptions {
-      margin: 5px 10px 10px 30px;
+      margin: 10px 10px 10px 30px;
       align-self: right;
       .title {
         font-weight: 700;

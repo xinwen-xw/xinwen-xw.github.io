@@ -14,7 +14,7 @@ const ResearchPreview = ({research}) => (
             <div dangerouslySetInnerHTML={ { __html: research.authors } }></div>
           </div>
           <div className="conference">
-            in <div>{research.conference}</div>
+            <div>{research.conference}</div>
           </div>
           <div className="description">
             {research.description}

@@ -4,7 +4,7 @@ import courses from '../../data/teaching.json';
 const Community = () => (
   <div className="community-section">
     <div className="section-title">
-      Teaching and community involvement
+      Teaching and Community Involvement
     </div>
 
     <div className="teaching-section">

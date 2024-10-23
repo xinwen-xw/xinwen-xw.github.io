@@ -1,6 +1,44 @@
 [
   {
-    "id": 1,
+  "id": 8,
+  "courseName": "CU Boulder - Discovery Learning Apprenticeship Program (Mentor)",
+  "link": " https://www.colorado.edu/engineering/CU-SPUR-projects#:~:text=The%20CU%20Summer%20Program%20for,to%20CU%20Boulder%20Engineering%20students",
+  "term": "Fall 2024",
+  "details": [
+    "Project: Mechanical Design for Advancing Open-Source Biofibers Spinning",
+    "Mentee: Claire Ferla"
+  ]
+  },
+  {
+    "id": 7,
+    "courseName": "CU Boulder - Summer Program for Undergraduate Research (Mentor)",
+    "link": " https://www.colorado.edu/engineering/CU-SPUR-projects#:~:text=The%20CU%20Summer%20Program%20for,to%20CU%20Boulder%20Engineering%20students",
+    "term": "Summer 2024",
+    "details": [
+      "Project: Investigating Novel Sustainable Materials for 3D Printing",
+      "Mentee: Sophie Berry"
+    ]
+  },
+  {
+    "id": 6,
+    "courseName": "Brave Behind Bars (CS Teaching Assistant)",
+    "link": " https://bravebehindbars.org/",
+    "term": "Summer 2024",
+    "details": [
+      "Brave Behind Bars is a college-accredited introductory computer science and career- readiness program for incarcerated people"
+    ]
+  },
+  {
+    "id": 5,
+    "courseName": "Airbnb Connect Engineering Apprenticeship (Mentor)",
+    "link": " https://careers. airbnb.com/connect-engineering-apprenticeship/",
+    "term": "2022-2023",
+    "details": [
+      "This program bridges the opportunity gap for entry-level engineering candidates who are from underrepresented backgrounds and unconventional paths"
+    ]
+  },
+  {
+    "id": 4,
     "courseName": "Middle East Entrepreneurs of Tomorrow (CS Instructor)",
     "link": "https://www.meet.mit.edu/",
     "term": "Summer 2019",
@@ -10,8 +48,8 @@
     ]
   },
   {
-    "id": 2,
-    "courseName": "6.810 Engineering Interactive Technologies (Undergraduate TA)",
+    "id": 3,
+    "courseName": "MIT - Engineering Interactive Technologies (Course number: 6.810) (Undergraduate TA)",
     "link": "https://hcie.csail.mit.edu/classes/2021-fall-6810/6810-engineering-interactive-technologies.html",
     "term": "Fall 2018",
     "details": [
@@ -20,8 +58,8 @@
     ]
   },
   {
-    "id": 3,
-    "courseName": "11.111 Leadership in Negotiation: Advanced Applications (Undergraduate TA)",
+    "id": 2,
+    "courseName": "MIT - The Art and Science of Negotiation: Advanced Applications (Course number: 11.111) (Undergraduate TA)",
     "link": "http://catalog.mit.edu/subjects/11/",
     "term": "Spring 2018",
     "details": [
@@ -31,7 +69,7 @@
     ]
   },
   {
-    "id": 4,
+    "id": 1,
     "courseName": "MIT MakerLodge (Mentor)",
     "link": "https://project-manus.mit.edu/students/makerlodge",
     "term": "2017 - 2019",

@@ -6,7 +6,7 @@ import ProjectPreview from './project_preview.js';
 const Projects = () => (
   <div className="project-section">
     <div className="section-title">
-      Design and fabrication related projects
+      Design and Fabrication Projects
     </div>
 
     <div className="project-list">

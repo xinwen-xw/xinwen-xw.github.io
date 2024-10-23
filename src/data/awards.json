@@ -1,14 +1,17 @@
 [
   {
+    "id": 3,
+    "title": "ATLAS Institute Seed Grant (2024)",
+    "description": "Amount: $30,000"
+  },
+  {
     "id": 2,
-    "title": "MIT EECS Licklider Award for Outstanding Undergraduate Research Project (2017)",
-    "link": "http://18.9.44.118/institute-awards/2017-2018-awards/electrical-engineering-and-computer-science",
-    "description": "Awarded by MIT EECS department for my research contribution to the ColorMod Project."
+    "title": "Adobe Women in Technology Scholarship Finalist (2018)",
+    "description": ""
   },
   {
     "id": 1,
-    "title": "Adobe Women in Technology Scholarship Finalist (2018)",
-    "link": "https://research.adobe.com/scholarship/",
-    "description": ""
+    "title": "MIT EECS Licklider Award for Outstanding Undergraduate Research Project (2017)",
+    "description": "Awarded by MIT EECS department for my research contribution to the ColorMod Project."
   }
 ]
