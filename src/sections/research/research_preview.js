@@ -16,6 +16,10 @@ const ResearchPreview = ({research}) => (
           <div className="conference">
             <div>{research.conference}</div>
           </div>
+          {!!research.awards && <div className="awards">
+            {research.awards.map((award) => <div>&#127942; {award}</div>)}
+            </div> 
+            }
           <div className="description">
             {research.description}
           </div>

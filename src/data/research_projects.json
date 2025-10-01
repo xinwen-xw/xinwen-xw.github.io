@@ -1,8 +1,19 @@
 [
   {
     "id": 1,
+    "title": "Enabling Recycling of Multi-Material 3D Printed Objects through Computational Design and Disassembly by Dissolution",
+    "authors": "<b>Xin Wen</b>, S. Sandra Bae, Michael L. Rivera",
+    "conference": "In proceedings of the 2025 CHI Conference on Human Factors in Computing System",
+    "awards": ["Best Paper Award (Top 1%), ACM CHI 2025", "Innovation Award, Student Ideas Showcase, 2025 CU Boulder Campus Sustainability Summit"],
+    "thumbnail": "m2d2_thumbnail.gif",
+    "doi": "https://dl.acm.org/doi/full/10.1145/3706598.3714080",
+    "pdf": "https://dl.acm.org/doi/pdf/10.1145/3706598.3714080",
+    "description": "This paper presents a computational fabrication technique to generate dissolvable interfaces between different materials in a 3D printed object without affecting the object’s intended use. When the interfaces are dissolved, the object is disassembled to enable recycling of the individual materials."
+  },
+  {
+    "id": 2,
     "title": "Exploring a Software Tool for Biofibers Design",
-    "authors": "<b>Xin Wen</b>, Eldy S. Lazaro Vasquez, and Michael L. Rivera",
+    "authors": "<b>Xin Wen</b>, Eldy S. Lazaro Vasquez, Michael L. Rivera",
     "conference": "In Adjunct Proceedings of the 37th Annual ACM Symposium on User Interface Software and Technology (UIST Adjunct '24).",
     "thumbnail": "biofiber_thumbnail.png",
     "doi": "https://dl.acm.org/doi/10.1145/3672539.3686317",
@@ -10,7 +21,7 @@
     "description": "The Biofibers Spinning Machine produces bio-based fibers (biofibers) that are dissolvable and biodegradable. These fibers enable recycling of smart textiles by making it easy to separate electronics from textiles. Currently, prototyping with the machine requires the use of low-level commands, i.e. G-code. To enable more people to participate in the sustainable smart textiles design space and develop new biofiber materials, we need to provide accessible tools and workflows. This work explores a software tool that facilitates material exploration with machine parameters. "
   },
   {
-    "id": 2,
+    "id": 3,
     "title": "ColorMod: Recoloring 3D Printed Objects using Photochromic Inks",
     "authors": "Parinya Punpongsanon, <b>Xin Wen</b>, David Kim, Stefanie Mueller.",
     "conference": "In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (CHI '18).",
@@ -22,7 +33,7 @@
     "description": "ColorMod is a method to create 3D objects that allow for multi-color changes in their appearance after fabrication. It works by placing differently colored photochromic materials in a dense multi-color voxel pattern across the entire surface of the object. During recoloring, only the voxels with the desired color are activated; all other voxels remain deactivated and transparent."
   },
   {
-    "id": 3,
+    "id": 4,
     "title": "FoodFab: Creating Food Perception Tricks using Food 3D Printing",
     "authors": "Ying-Ju Lin, Parinya Punpongsanon, <b>Xin Wen</b>, Daisuke Iwai, Kosuke Sato, Marianna Obrist, Stefanie Mueller.",
     "conference": "In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI '20).",
@@ -34,7 +45,7 @@
     "description": "FoodFab is a food 3D printing system that induces varying levels of satiety by creating food structures of different chewing times but with the same amount of calories to help users control their food intake."
   },
   {
-    "id": 4,
+    "id": 5,
     "title": "CurveBoards: Integrating Breadboards into Physical Objects to Prototype Function in the Context of Form",
     "authors": "Junyi Zhu, Lotta-Gili Blumberg, Yunyi Zhu, Martin Nisser, Ethan Levi Carlson, <b>Xin Wen</b>, Kevin Shum, Jessica Ayeley Quaye, Stefanie Mueller.",
     "conference": "In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI '20).",
